@@ -1,0 +1,8 @@
+name: FQ-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - IPython
+  - pandas
+  - matplotlib

@@ -1,5 +1,5 @@
 jupyterhub>=1.0
 IPython==8.2.0
 pandas==1.4.2
-numpy==1.21.5
+numpy==1.22.0
 matplotlib==3.5.1
